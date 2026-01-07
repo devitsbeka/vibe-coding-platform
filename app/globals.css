@@ -3,7 +3,7 @@
 @source "../node_modules/streamdown/dist/*.js";
 
 :root {
-  --background: rgb(255, 255, 255);
+  --background: rgb(245, 245, 245);
   --foreground: rgb(10, 10, 10);
   --card: rgb(255, 255, 255);
   --card-foreground: rgb(10, 10, 10);
